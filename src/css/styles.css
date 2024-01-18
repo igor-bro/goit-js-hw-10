@@ -23,3 +23,15 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+
+#izi-close-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin-left: 14px;
+  margin-top: 6px;
+  /* fill: #fff; */
+  border: none;
+  background-color: transparent;
+}
